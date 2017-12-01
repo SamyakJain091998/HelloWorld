@@ -1,0 +1,53 @@
+$git --version  = Will display the version of your git.
+
+$git config --global user.name "Samyak Jain" = will change your user name
+
+$git config --global user.email "   " = will change your email
+
+$git config --list = will display all your related info
+
+$clear = will clear your whole screen
+
+$git config user.email = will display your email
+
+$git help = 
+
+$pwd = will display your current location
+
+$cd desktop = entering into a directory named desktop
+
+$cd .. = exiting the current directory
+
+$git init = initializes an empty repository in the initial  directory
+
+$ls = displays all the content of the initial folder
+
+$ls -la = displays the hidden content too
+
+$ git add . = will add all the changes we make in our folder
+
+$ git log = view our commit history
+
+$ git status = view our file status
+
+$ git add <file_name> = 1st step in the process of altering the file
+
+$ git status
+
+$ git commit -m "Some_Text"
+
+$ git log  = will display our final commits and all
+
+$ git diff = Will display all the changes made to the file (Compares repository against your working copy)
+
+$git diff --staged = Will display your changes at that particular stage
+
+$git rm <File_Name> = Deletes the file
+
+$git rm -f <File_Name> = Forcefully deletes the file
+
+$git mv <Current_File_Name> <New_File_Name> = Renames Current_File to New_File
+
+
+
+
